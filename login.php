@@ -278,6 +278,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
             <h3>Industrial Motor Machine Monitoring System</h3>
             <p>ระบบตรวจสอบการทำงานของมอเตอร์เครื่องจักรอุตสาหกรรม</p>
+            <p> CPE 2026</p>
         </div>
 
         <div class="right">
